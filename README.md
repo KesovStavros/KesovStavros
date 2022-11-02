@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me... 
 - kasocial [@Ставрос](https://kesalov.github.io/social/profiles/kesovstavros)
-- <blockquote>---</blockquote>
+- <hr />
 
 
 <!---
